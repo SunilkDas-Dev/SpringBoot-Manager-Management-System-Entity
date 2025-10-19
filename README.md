@@ -5,6 +5,7 @@ The Manager Management System is a Spring Boot RESTful API project designed to p
 It uses MySQL as the database and APIs are tested and documented using Postman, Swagger, Insomnia, and Hoppscotch for reliable backend performance.
 
 ⚙️ Features
+
 ➕ Insert Manager Details – Add new manager records to the database
 🔍 Get Manager Details – Retrieve manager information
 ✏️ Update Manager Details – Modify existing manager records
