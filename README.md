@@ -7,8 +7,11 @@ It uses MySQL as the database and APIs are tested and documented using Postman, 
 ⚙️ Features
 
 ➕ Insert Manager Details – Add new manager records to the database
+
 🔍 Get Manager Details – Retrieve manager information
+
 ✏️ Update Manager Details – Modify existing manager records
+
 ❌ Delete Manager Details – Remove manager records
 
 🗄️ Tech Stack
