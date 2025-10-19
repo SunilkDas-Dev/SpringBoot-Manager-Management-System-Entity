@@ -32,11 +32,6 @@ spring.datasource.username=root
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 
-
-Run the project:
-mvn spring-boot:run
-
-
 Test the APIs using:
 Swagger UI: http://localhost:8080/swagger-ui/index.html
 Postman / Insomnia / Hoppscotch
@@ -47,7 +42,3 @@ Create	POST	/saveManager
 Read	GET	/getAllManagers
 Update	PUT	/updateManager/{id}
 Delete	DELETE	/deleteManager/{id}
-🏁 Conclusion
-
-The Manager Management System project helped me strengthen my skills in Spring Boot backend development, REST API design
-and MySQL database integration — while also exploring multiple API testing and documentation tools.
