@@ -19,7 +19,11 @@ Category	Technologies
 Backend Framework	Spring Boot
 Language	Java
 Database	MySQL
-API Documentation & Testing	Swagger, Postman, Insomnia, Hoppscotch
+API Documentation & Testing :-
+Swagger
+Postman 
+Insomnia
+Hoppscotch
 Build Tool	Maven / Gradle
 IDE	Spring Tool Suite (STS) / IntelliJ IDEA / Eclipse
 
